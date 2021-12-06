@@ -2,7 +2,7 @@
 
 #### Je m'appelle Marion Patinet
 #### 👉 opticienne 😎 et récemment développeuse web 👩‍💻
-#### 👉 habite dans la belle ville de Reims 🍾 !
+#### 👉 habite dans la belle ville de Reims 🍾 
 
 
 Tel un couteau suisse, je fais mes armes du coté obscur de la force (PHP / Symfony)🥷.
@@ -11,7 +11,7 @@ Mon projet futur ? Affuter mes outils pour me spécialiser du côté clair (le F
 #
 ### 🔷 Actuellement
 
- 🔭 Je travaille sur un prototype de plateforme visant à mettre en relation des professionnels qui souhaitent louer des locaux vaccant. 
+ 🔭 Je travaille sur un prototype de plateforme visant à mettre en relation des professionnels qui souhaitent louer des locaux vaccant. Je suis également Scrum master sur ce projet.
 
 🪴 J'apprends Symfony.
 
