@@ -12,6 +12,8 @@ Mon projet futur ? Affuter mes outils pour me spécialiser du côté clair (le F
 ### 🔷 Actuellement
 
  🔭 Je travaille sur un prototype de plateforme visant à mettre en relation des professionnels qui souhaitent louer des locaux vaccant. Je suis également Scrum master sur ce projet.
+ 
+👩‍🎓 je prépare le titre de développeur web et mobile avec la Wild Code School de Reims.
 
 🪴 J'apprends Symfony.
 
