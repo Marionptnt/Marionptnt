@@ -17,21 +17,6 @@ Mon projet futur ? Affuter mes outils pour me spécialiser du côté clair (le F
 
 🪴 J'apprends Symfony.
 
-🍀 Je souhaite continuer à me former avec un an d'alternance pour apprendre TypeScript, React, Node, React Native et Flutter.
-
-🤔 Je recherche :
-
-- 🖋 Contrat de professionnalisation
-- 💻 Formation : Développeur web et mobile avancé - Alternance
-- 🕦  Rythme : 1 semaine à l’école - 3 semaines en entreprise
-- 📆 Durée : 7 mars 2022 au 6 mars 2023
-- 📍 Lieu : Reims 🍾
-
-OU
-
-- 🖋  Stage de fin de formation
-- 🕦   Rythme : 5 mois
-- 📆  Date : à partir du 14 février
 
 #
 
